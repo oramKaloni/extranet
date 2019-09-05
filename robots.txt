@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /assets/
+Disallow: index.php
+Disallow: start.php
